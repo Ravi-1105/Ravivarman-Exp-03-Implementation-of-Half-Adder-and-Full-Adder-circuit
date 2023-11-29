@@ -43,12 +43,12 @@ If the output is 1, then the led glows.
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 # Half Adder Circuit:-
 
-![image](https://github.com/Shilo-05/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/139841664/22925cc5-3594-4624-a94e-a1d0a9e550e8)
+![Half adder prog](https://github.com/Ravi-1105/Ravivarman-Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/139841688/515d03c2-9868-41e4-9158-f8ab30f6a730)
 
 
 # Full Adder Circuit:-
 
-![image](https://github.com/Shilo-05/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/139841664/26cc1c46-2eea-4984-860c-1112a233aa11)
+![Full adder prog](https://github.com/Ravi-1105/Ravivarman-Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/139841688/d6c2ed44-05b6-4b86-8382-b4a26a1dcfda)
 
 
 */
