@@ -39,7 +39,7 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 
 ### Program:
-/*
+
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 # Half Adder Circuit:-
 
